@@ -1,0 +1,34 @@
+{
+    "users" : [
+    {
+       "name" : "Mahesh",
+       "sirname" : "Babu",
+       "profession" : "Teacher",
+       "id": 1
+    },
+    {
+       "name" : "Suresh",
+       "sirname" : "Shetty",
+       "profession" : "Librarian",
+       "id": 2
+    },
+    {
+       "name" : "Ramesh",
+       "sirname" : "Appa",
+       "profession" : "Clerk",
+       "id": 3
+    },
+    {
+        "name" : "Kavita",
+        "sirname" : "Nellu",
+        "profession" : "Dancer",
+        "id": 4
+     },
+     {
+        "name" : "Nidhi",
+        "sirname" : "Chopra",
+        "profession" : "Arabic",
+        "id": 5
+     }
+    ]
+ }
