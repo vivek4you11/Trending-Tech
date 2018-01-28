@@ -1,9 +1,9 @@
-var express = require('express');
-var app = express();
+const express = require('express');
+const app = express();
 
-var port = process.env.PORT || 3000;
-var router = express.Router();
-var data = require('./userdata.json');
+const port = process.env.PORT || 3000;
+const router = express.Router();
+const data = require('./userdata.json');
 
 router.get('/users', function(req,res){
     res.json(data);
