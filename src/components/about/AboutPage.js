@@ -27,7 +27,7 @@ class AboutPage extends React.Component {
         return (
             <div>
                 <h1>About</h1>
-                <p>This application uses React, Redux and React-Router and a variety of other helpful libraries.</p> 
+                <p>This is our Young Team trying to do something interesting while learning React and Redux.</p> 
                 <hr />
                 <p>Count : {this.state.count}</p><br />
                 <input type="button" value="ADD" className="btn btn-primary" onClick={this.increment} />{ " " }
